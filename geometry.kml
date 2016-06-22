@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Folder>
+        <name>Geometries</name>
+        <Folder>
+            <name>Triangles #1</name>
+            <Placemark>
+                <LinearRing>
+                    <coordinates>9.109039,47.680645 9.10883003851911,47.68153324820983 9.108094465668866,47.68128091550769 9.109039,47.680645</coordinates>
+                </LinearRing>
+            </Placemark>
+            <Placemark>
+                <LinearRing>
+                    <coordinates>9.109039,47.680645 9.109645429331616,47.68144630028627 9.10883003851911,47.68153324820983 9.109039,47.680645</coordinates>
+                </LinearRing>
+            </Placemark>
+            <Placemark>
+                <LinearRing>
+                    <coordinates>9.109039,47.680645 9.110229180093956,47.68105328288854 9.109645429331616,47.68144630028627 9.109039,47.680645</coordinates>
+                </LinearRing>
+            </Placemark>
+            <Placemark>
+                <LinearRing>
+                    <coordinates>9.109039,47.680645 9.110358317856425,47.68050431530442 9.110229180093956,47.68105328288854 9.109039,47.680645</coordinates>
+                </LinearRing>
+            </Placemark>
+            <Placemark>
+                <LinearRing>
+                    <coordinates>9.109039,47.680645 9.109983522818105,47.68000908449232 9.110358317856425,47.68050431530442 9.109039,47.680645</coordinates>
+                </LinearRing>
+            </Placemark>
+        </Folder>
+        <Folder>
+            <name>Look ahead Polygons #1</name>
+            <Placemark>
+                <LinearRing>
+                    <coordinates>9.10883003851911,47.68153324820983 9.108788245795997,47.681710897851794 9.107905557421091,47.681408098609225 9.108094465668866,47.68128091550769 9.10883003851911,47.68153324820983</coordinates>
+                </LinearRing>
+            </Placemark>
+            <Placemark>
+                <LinearRing>
+                    <coordinates>9.109645429331616,47.68144630028627 9.109766716315706,47.68160656034352 9.108788245795997,47.681710897851794 9.10883003851911,47.68153324820983 9.109645429331616,47.68144630028627</coordinates>
+                </LinearRing>
+            </Placemark>
+            <Placemark>
+                <LinearRing>
+                    <coordinates>9.110229180093956,47.68105328288854 9.110467217230493,47.68113493946625 9.109766716315706,47.68160656034352 9.109645429331616,47.68144630028627 9.110229180093956,47.68105328288854</coordinates>
+                </LinearRing>
+            </Placemark>
+            <Placemark>
+                <LinearRing>
+                    <coordinates>9.110358317856425,47.68050431530442 9.110622181000492,47.6804761783653 9.110467217230493,47.68113493946625 9.110229180093956,47.68105328288854 9.110358317856425,47.68050431530442</coordinates>
+                </LinearRing>
+            </Placemark>
+            <Placemark>
+                <LinearRing>
+                    <coordinates>9.109983522818105,47.68000908449232 9.110172426000197,47.67988190139078 9.110622181000492,47.6804761783653 9.110358317856425,47.68050431530442 9.109983522818105,47.68000908449232</coordinates>
+                </LinearRing>
+            </Placemark>
+        </Folder>
+        <Folder>
+            <name>Triangles #2</name>
+            <Placemark>
+                <LinearRing>
+                    <coordinates>9.109277481545089,47.68165873013745 9.108332930313377,47.6822946466237 9.10795813481614,47.6817994161999 9.109277481545089,47.68165873013745</coordinates>
+                </LinearRing>
+            </Placemark>
+            <Placemark>
+                <LinearRing>
+                    <coordinates>9.109277481545089,47.68165873013745 9.109068518033961,47.682546978563764 9.108332930313377,47.6822946466237 9.109277481545089,47.68165873013745</coordinates>
+                </LinearRing>
+            </Placemark>
+            <Placemark>
+                <LinearRing>
+                    <coordinates>9.109277481545089,47.68165873013745 9.109883924492353,47.68246002979543 9.109068518033961,47.682546978563764 9.109277481545089,47.68165873013745</coordinates>
+                </LinearRing>
+            </Placemark>
+            <Placemark>
+                <LinearRing>
+                    <coordinates>9.109277481545089,47.68165873013745 9.110467685699634,47.68206701179292 9.109883924492353,47.68246002979543 9.109277481545089,47.68165873013745</coordinates>
+                </LinearRing>
+            </Placemark>
+            <Placemark>
+                <LinearRing>
+                    <coordinates>9.109277481545089,47.68165873013745 9.110596824716108,47.681518044075 9.110467685699634,47.68206701179292 9.109277481545089,47.68165873013745</coordinates>
+                </LinearRing>
+            </Placemark>
+        </Folder>
+        <Folder>
+            <name>Look ahead Polygons #2</name>
+            <Placemark>
+                <LinearRing>
+                    <coordinates>9.108332930313377,47.6822946466237 9.108144018685461,47.682421829920955 9.107694265043392,47.68182755341239 9.10795813481614,47.6817994161999 9.108332930313377,47.6822946466237</coordinates>
+                </LinearRing>
+            </Placemark>
+            <Placemark>
+                <LinearRing>
+                    <coordinates>9.109068518033961,47.682546978563764 9.109026724904755,47.68272462824902 9.108144018685461,47.682421829920955 9.108332930313377,47.6822946466237 9.109068518033961,47.682546978563764</coordinates>
+                </LinearRing>
+            </Placemark>
+            <Placemark>
+                <LinearRing>
+                    <coordinates>9.109883924492353,47.68246002979543 9.110005214199608,47.682620289727026 9.109026724904755,47.68272462824902 9.109068518033961,47.682546978563764 9.109883924492353,47.68246002979543</coordinates>
+                </LinearRing>
+            </Placemark>
+            <Placemark>
+                <LinearRing>
+                    <coordinates>9.110467685699634,47.68206701179292 9.110705727648325,47.68214866812401 9.110005214199608,47.682620289727026 9.109883924492353,47.68246002979543 9.110467685699634,47.68206701179292</coordinates>
+                </LinearRing>
+            </Placemark>
+            <Placemark>
+                <LinearRing>
+                    <coordinates>9.110596824716108,47.681518044075 9.110860692923413,47.68148990686251 9.110705727648325,47.68214866812401 9.110467685699634,47.68206701179292 9.110596824716108,47.681518044075</coordinates>
+                </LinearRing>
+            </Placemark>
+        </Folder>
+        <Folder>
+            <name>Path</name>
+            <Placemark>
+                <LineString>
+                    <coordinates>9.109039,47.680645 9.109277481545089,47.68165873013745 9.110355472507225,47.68238447945846</coordinates>
+                </LineString>
+            </Placemark>
+        </Folder>
+    </Folder>
+</kml>
